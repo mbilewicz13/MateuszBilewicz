@@ -24,7 +24,12 @@ Kurs obejmuje 133h nauki.
 
 
 
+## Zainteresowania
+Gotowanie 
+Muzyka / Filmy
+Podróże
+
 ## Kontakt
-  <img src="https://www.linkedin.com/in/mateuszbilewicz" width="52" height="40" alt="linkedin logo"  />
+ 
  
   
