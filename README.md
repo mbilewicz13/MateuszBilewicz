@@ -14,3 +14,10 @@ Kurs obejmuje 133h nauki.
 8.	Podstawy Selenium WebDriver
 9.	Przygotowanie do egzaminu ISTQB	
 10.	Warsztaty Scrum
+
+
+## Umiejętności
+
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/color/48/null/git.png"/>
+
+
