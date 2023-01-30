@@ -31,13 +31,11 @@ Kurs obejmuje 133h nauki.
 
 
 ## Zainteresowania
-Gotowanie 
-Muzyka / Filmy
-Podróże
+Gotowanie                                                                                                                                                           Muzyka / Filmy                                                                                                                                                         Podróże
 
 ## Kontakt
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mateuszbilewicz/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mbilewicz13@gmail.com)  
+
 
 
  
