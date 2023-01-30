@@ -36,6 +36,6 @@ Muzyka / Filmy
 Podróże
 
 ## Kontakt
- <img src='https://img.icons8.com/color/96/null/linkedin-circled--v1.png' alt='linkedin' height='40'>
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mateuszbilewicz/) 
  
   
