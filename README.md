@@ -18,6 +18,7 @@ Kurs obejmuje 133h nauki.
 
 ## Umiejętności
 
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>  <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/color/48/null/git.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>    <img src="https://img.icons8.com/color/48/null/jira.png"/>  
+<img src="https://img.icons8.com/color/49/null/trello.png"/>
 
 
