@@ -30,6 +30,6 @@ Muzyka / Filmy
 Podróże
 
 ## Kontakt
- 
- 
+ [<img src='https://img.icons8.com/color/96/null/linkedin-circled--v1.png' alt='linkedin' height='40'>] (www.linkedin.com/in/mateuszbilewicz)
+ mbilewicz13@gmail.com
   
