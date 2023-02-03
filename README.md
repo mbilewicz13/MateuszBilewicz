@@ -2,7 +2,7 @@
 Cześć . Jestem Mateusz, mieszkam we Wrocławiu. Jestem początkującym testerem oprogramowania . Obecnie uczestniczę w kursie Tester Oprogramowania w szkole SDA. Jestem pracowitą osobą która się nie poddaje i dążę do osiągniecia celu. Jestem zmotywowany do podjęcia pracy i zdobywania nowego doświadczenia.
 
 
-## Kurs Software Development Academy 
+     ## Kurs Software Development Academy 
 Kurs obejmuje 133h nauki.
 1.	Wprowadzenie do testowania
 2.  Techniki projektowania testów	
@@ -16,27 +16,18 @@ Kurs obejmuje 133h nauki.
 10.	Warsztaty Scrum
 
 
-## Umiejętności
+        ## Umiejętności
+* Jira
+* TestRail
+* Trello
+* Postman
+* Selenium IDE
+* Asana
+* IntelliJ IDEA
 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  ![Postman logo](https://assets.getpostman.com/common-share/postman-github-logo.png "Postman logo")
   
-
-
-</div>
-
-
-
-###
-
-
-
-## Zainteresowania
+      ## Zainteresowania
 Gotowanie                                                                                                                                                           Muzyka / Filmy                                                                                                                                                         Podróże
 
 ## Kontakt
