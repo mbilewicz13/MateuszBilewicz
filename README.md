@@ -24,7 +24,7 @@ Kurs obejmuje 133h nauki.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://lh3.googleusercontent.com/QMC6shV36RWjLyESXJBQYyaB1aKnHKGWDcNxQk9s7eTWvo0MSEBABQ5GEWQXERXzA34V82RoANuF6CG77szX1krr=w128-h128-e365-rj-sc0x00ffffff  />
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://lh3.googleusercontent.com/QMC6shV36RWjLyESXJBQYyaB1aKnHKGWDcNxQk9s7eTWvo0MSEBABQ5GEWQXERXzA34V82RoANuF6CG77szX1krr=w128-h128-e365-rj-sc0x00ffffff">
 
 
 </div>
