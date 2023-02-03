@@ -28,7 +28,7 @@ Kurs obejmuje 133h nauki.
 
   
    ## Zainteresowania
-* Gotowanie                                                                                                                                                           * 
+* Gotowanie                                                                                                                                                         
 * Muzyka / Filmy
 * Pozdróże
 
