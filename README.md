@@ -2,7 +2,7 @@
 Cześć . Jestem Mateusz, mieszkam we Wrocławiu. Jestem początkującym testerem oprogramowania . Obecnie uczestniczę w kursie Tester Oprogramowania w szkole SDA. Jestem pracowitą osobą która się nie poddaje i dążę do osiągniecia celu. Cenie sobie porzadekoraz organizacje swojej pracy. Bardzo dobrze odnajduje się w nowym zespole oraz z łatwością nawiązuje kontakt z ludzmi z danej grupy. Jestem zmotywowany do podjęcia pracy i zdobywania nowego doświadczenia.
 
 
-  ### Kurs Software Development Academy 
+  ## Kurs Software Development Academy 
 Kurs obejmuje 133h nauki.
 1.	Wprowadzenie do testowania
 2.  Techniki projektowania testów	
@@ -16,7 +16,7 @@ Kurs obejmuje 133h nauki.
 10.	Warsztaty Scrum
 
 
-   ### Umiejętności
+   ## Umiejętności
 * Jira
 * TestRail
 * Trello
@@ -27,13 +27,13 @@ Kurs obejmuje 133h nauki.
 
 
   
-   ### Zainteresowania
+   ## Zainteresowania
 * Gotowanie                                                                                                                                                         
 * Muzyka / Filmy
 * Pozdróże
 
 
-  ### Kontakt  
+  ## Kontakt  
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateuszbilewicz/)
 
 
