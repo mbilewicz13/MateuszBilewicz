@@ -38,5 +38,5 @@ Kurs obejmuje 133h nauki.
 
 
 
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbilewicz13&theme=transparent_icons=true) 
   
