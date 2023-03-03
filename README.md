@@ -1,9 +1,9 @@
 # Portfolio Mateusz Bilewicz
-Cześć . Jestem Mateusz, mieszkam we Wrocławiu. Jestem początkującym testerem oprogramowania . Obecnie uczestniczę w kursie Tester Oprogramowania w szkole SDA. Jestem pracowitą osobą która się nie poddaje i dążę do osiągniecia celu. Cenie sobie porzadekoraz organizacje swojej pracy. Bardzo dobrze odnajduje się w nowym zespole oraz z łatwością nawiązuje kontakt z ludzmi z danej grupy. Jestem zmotywowany do podjęcia pracy i zdobywania nowego doświadczenia.
+Cześć . Jestem Mateusz, mieszkam we Wrocławiu. Jestem początkującym testerem oprogramowania . Po trzech miesiącach intensywnej nauki ukończyłem kurs "Tester Oprogramowania" w szkole Software Development Academy. Jestem pracowitą osobą która się nie poddaje i dążę do osiągniecia celu. Jestem zmotywowany do podjęcia pracy i zdobywania nowego doświadczenia. Cenie sobie porządek oraz organizacje swojej pracy. Bardzo dobrze odnajduje się w nowym zespole oraz z łatwością nawiązuje kontakt z ludźmi z danej grupy.
 
 
   ## Kurs Software Development Academy 
-Kurs obejmuje 133h nauki.
+Kurs obejmował 133h nauki.
 1.	Wprowadzenie do testowania
 2.  Techniki projektowania testów	
 3.	Narzędzia testerskie (JIRA, TestRail, Postman )
